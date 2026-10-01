@@ -1,4 +1,4 @@
-# Fair lines - updated 2026-10-01 21:25 UTC
+# Fair lines - updated 2026-10-01 21:28 UTC
 
 Over is a ~58%+ pick if the PrizePicks line is **at or below** the Over number. Under likewise if **at or above** the Under number. Otherwise skip.
 
@@ -164,7 +164,7 @@ Over is a ~58%+ pick if the PrizePicks line is **at or below** the Over number. 
 | Emeka Egbuka | REC YDS | 38.2 | 32.0 | 44.0 | 6 | HIGH |
 | Emeka Egbuka | RECEPTIONS | 3.3 | 2.5 | 4.0 | 5 | HIGH |
 | Jalon Daniels | PASS TDS | 0.7 | 0.5 | 1.0 | 6 | HIGH |
-| Jalon Daniels | PASS YDS | 170.3 | 159.0 | 181.5 | 6 | HIGH |
+| Jalon Daniels | PASS YDS | 170.5 | 159.5 | 181.5 | 6 | HIGH |
 | Jalon Daniels | RUSH YDS | 36.4 | 31.5 | 41.5 | 6 | HIGH |
 | Jonnu Smith | REC YDS | 8.0 | 5.5 | 10.5 | 4 | MED |
 | Jonnu Smith | RECEPTIONS | 1.1 | 0.5 | 1.5 | 4 | MED |
@@ -380,11 +380,11 @@ Over is a ~58%+ pick if the PrizePicks line is **at or below** the Over number. 
 | Kyler Murray | RUSH YDS | 20.7 | 17.5 | 24.0 | 5 | HIGH |
 | Malik Washington | REC YDS | 37.5 | 31.5 | 43.5 | 5 | HIGH |
 | Malik Washington | RECEPTIONS | 3.8 | 3.0 | 4.5 | 4 | MED |
-| Malik Washington | RUSH YDS | 4.7 | 3.0 | 6.5 | 3 | MED |
+| Malik Washington | RUSH YDS | 4.6 | 3.0 | 6.5 | 3 | MED |
 | Malik Willis | PASS TDS | 0.5 | 0.0 | 1.0 | 5 | HIGH |
 | Malik Willis | PASS YDS | 168.9 | 158.0 | 180.0 | 5 | HIGH |
-| Malik Willis | RUSH YDS | 29.0 | 25.0 | 33.0 | 5 | HIGH |
-| Ollie Gordon II | RUSH YDS | 27.8 | 23.5 | 32.0 | 5 | HIGH |
+| Malik Willis | RUSH YDS | 28.9 | 24.5 | 33.0 | 5 | HIGH |
+| Ollie Gordon II | RUSH YDS | 27.5 | 23.5 | 31.5 | 5 | HIGH |
 
 ## Denver Broncos @ San Francisco 49ers
 
