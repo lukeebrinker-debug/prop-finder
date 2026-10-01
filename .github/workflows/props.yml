@@ -1,0 +1,48 @@
+name: Prop fair lines
+
+on:
+  schedule:
+    - cron: '0 15 * * 6'   # Saturday 15:00 UTC (10 AM Central, summer): college football
+    - cron: '0 15 * * 0'   # Sunday 15:00 UTC: NFL
+  workflow_dispatch:
+    inputs:
+      sports:
+        description: 'Which games'
+        type: choice
+        options: [auto, NFL, NCAAF, both]
+        default: auto
+      hours:
+        description: 'Only games starting within this many hours'
+        default: '30'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: props
+  cancel-in-progress: false
+
+jobs:
+  props:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - name: Build fair lines
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          SPORTS="${{ github.event.inputs.sports }}"; [ -z "$SPORTS" ] && SPORTS=auto
+          HOURS="${{ github.event.inputs.hours }}"; [ -z "$HOURS" ] && HOURS=30
+          python prop_fair_lines.py --sports=$SPORTS --hours=$HOURS
+      - name: Save results
+        run: |
+          git config user.name "props-bot"
+          git config user.email "props-bot@users.noreply.github.com"
+          git add output history || true
+          git diff --staged --quiet || (git commit -m "update fair lines" && git pull --rebase && git push)
