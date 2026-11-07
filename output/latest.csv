@@ -1,423 +1,46 @@
 sport,game,start,player,stat,fair,book_line,books,over_if_pp_at_or_below,under_if_pp_at_or_above,agreement,spread
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Dak Prescott,PASS TDS,2.3,2.5,6,2.0,3.0,HIGH,0.04
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Jacoby Brissett,PASS TDS,1.7,1.5,6,1.0,2.0,HIGH,0.03
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Dak Prescott,PASS YDS,272.2,272.5,12,255.5,289.0,HIGH,2.3
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Jacoby Brissett,PASS YDS,256.5,256.5,12,240.5,272.5,HIGH,1.77
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,CeeDee Lamb,REC YDS,84.0,83.5,10,72.5,95.5,HIGH,3.69
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Trey McBride,REC YDS,73.7,73.5,10,63.5,84.0,HIGH,1.5
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,George Pickens,REC YDS,65.3,65.5,10,56.0,74.5,HIGH,0.81
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Michael Wilson,REC YDS,59.0,59.0,10,50.5,67.5,HIGH,1.18
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Ryan Flournoy,REC YDS,37.5,37.0,10,31.5,43.5,HIGH,0.66
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Kendrick Bourne,REC YDS,37.5,36.5,10,31.5,43.5,HIGH,0.81
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Elijah Higgins,REC YDS,17.0,16.5,5,13.5,20.5,HIGH,0.66
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Brevyn Spann-Ford,REC YDS,14.5,14.5,6,11.5,18.0,HIGH,0.3
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Jake Ferguson,REC YDS,14.8,14.5,6,11.5,18.0,HIGH,0.5
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Reggie Virgil,REC YDS,11.5,11.5,3,8.5,14.5,MED,1.45
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Javonte Williams,REC YDS,11.4,11.5,6,8.5,14.5,HIGH,0.22
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Jeremiyah Love,REC YDS,11.0,10.5,5,8.0,13.5,HIGH,0.62
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Trey McBride,RECEPTIONS,7.6,7.5,5,7.0,8.5,HIGH,0.05
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,CeeDee Lamb,RECEPTIONS,6.5,6.5,5,5.5,7.5,HIGH,0.07
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Michael Wilson,RECEPTIONS,4.7,4.5,5,4.0,5.5,HIGH,0.08
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,George Pickens,RECEPTIONS,4.5,4.5,5,4.0,5.0,HIGH,0.04
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Kendrick Bourne,RECEPTIONS,3.6,3.5,5,3.0,4.5,HIGH,0.04
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Ryan Flournoy,RECEPTIONS,3.3,3.5,5,2.5,4.0,HIGH,0.05
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Jeremiyah Love,RECEPTIONS,2.1,2.5,5,1.5,2.5,HIGH,0.04
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Elijah Higgins,RECEPTIONS,2.1,2.5,4,1.5,2.5,MED,0.01
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Jake Ferguson,RECEPTIONS,1.9,1.5,5,1.5,2.5,HIGH,0.02
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Javonte Williams,RECEPTIONS,1.9,1.5,5,1.5,2.5,HIGH,0.08
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Brevyn Spann-Ford,RECEPTIONS,1.7,1.5,5,1.0,2.0,HIGH,0.04
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Reggie Virgil,RECEPTIONS,0.9,0.5,3,0.5,1.5,MED,0.08
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Javonte Williams,RUSH YDS,76.2,76.5,10,67.5,85.0,HIGH,2.99
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Jeremiyah Love,RUSH YDS,44.5,44.5,10,38.5,50.5,HIGH,0.53
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Tyler Goodson,RUSH YDS,21.1,21.5,6,17.5,24.5,HIGH,1.14
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Tyler Allgeier,RUSH YDS,13.5,13.5,5,11.0,16.0,HIGH,0.31
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Jacoby Brissett,RUSH YDS,9.6,9.5,6,7.5,12.0,HIGH,0.35
-NFL,Arizona Cardinals @ Dallas Cowboys,2026-11-01T18:00:00Z,Dak Prescott,RUSH YDS,8.5,8.5,6,6.5,10.5,HIGH,0.55
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Baker Mayfield,PASS TDS,1.3,1.5,6,1.0,2.0,HIGH,0.06
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Michael Penix Jr.,PASS TDS,1.2,1.5,6,1.0,1.5,HIGH,0.02
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Michael Penix Jr.,PASS YDS,229.0,228.5,12,214.5,243.5,HIGH,0.86
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Baker Mayfield,PASS YDS,211.5,211.5,12,198.0,225.0,HIGH,2.07
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Drake London,REC YDS,78.1,78.0,10,67.0,89.0,HIGH,2.89
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Chris Godwin,REC YDS,40.8,41.5,10,34.5,47.0,HIGH,0.61
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Kyle Pitts,REC YDS,35.7,35.5,10,30.0,41.5,HIGH,0.68
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Cade Otton,REC YDS,33.9,33.5,10,28.5,39.5,HIGH,0.85
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Tez Johnson,REC YDS,32.5,31.5,9,27.0,38.0,HIGH,0.86
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Ted Hurst III,REC YDS,31.4,31.5,10,26.0,36.5,HIGH,0.79
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Bijan Robinson,REC YDS,31.3,30.5,10,26.0,36.5,HIGH,0.71
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Jahan Dotson,REC YDS,25.0,25.0,6,20.5,29.5,HIGH,0.61
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Bucky Irving,REC YDS,17.0,17.0,6,13.5,20.5,HIGH,0.44
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Kenny Gainwell,REC YDS,11.5,11.5,6,8.5,14.5,HIGH,0.22
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Zachariah Branch,REC YDS,8.5,8.5,5,6.0,11.0,HIGH,0.53
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Austin Hooper,REC YDS,5.5,5.5,4,3.5,7.5,MED,0.04
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Drake London,RECEPTIONS,6.2,6.5,5,5.5,7.0,HIGH,0.07
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Chris Godwin,RECEPTIONS,4.5,4.5,5,4.0,5.0,HIGH,0.04
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Bijan Robinson,RECEPTIONS,4.0,4.5,5,3.5,4.5,HIGH,0.05
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Kyle Pitts,RECEPTIONS,3.5,3.5,5,3.0,4.0,HIGH,0.07
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Cade Otton,RECEPTIONS,3.5,3.5,5,3.0,4.0,HIGH,0.04
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Bucky Irving,RECEPTIONS,2.8,2.5,5,2.0,3.5,HIGH,0.11
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Tez Johnson,RECEPTIONS,2.4,2.5,5,2.0,3.0,HIGH,0.06
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Ted Hurst III,RECEPTIONS,2.4,2.5,5,2.0,3.0,HIGH,0.02
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Jahan Dotson,RECEPTIONS,2.0,2.5,5,1.5,2.5,HIGH,0.08
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Kenny Gainwell,RECEPTIONS,1.7,1.5,5,1.0,2.0,HIGH,0.04
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Zachariah Branch,RECEPTIONS,1.3,1.5,5,1.0,2.0,HIGH,0.03
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Austin Hooper,RECEPTIONS,0.8,0.5,4,0.5,1.0,MED,0.0
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Bijan Robinson,RUSH YDS,80.8,80.5,10,71.5,90.0,HIGH,3.57
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Bucky Irving,RUSH YDS,69.7,69.5,10,61.5,78.0,HIGH,3.02
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Baker Mayfield,RUSH YDS,15.8,15.5,5,13.0,18.5,HIGH,0.58
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Kenny Gainwell,RUSH YDS,14.6,14.5,6,12.0,17.5,HIGH,0.18
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Khalil Herbert,RUSH YDS,8.6,8.5,5,6.5,10.5,HIGH,0.46
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Sean Tucker,RUSH YDS,7.1,7.5,3,5.0,9.0,MED,0.28
-NFL,Atlanta Falcons @ Tampa Bay Buccaneers,2026-11-01T18:00:00Z,Michael Penix Jr.,RUSH YDS,2.8,2.5,3,1.5,4.5,MED,0.08
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Josh Allen,PASS TDS,1.7,1.5,6,1.0,2.0,HIGH,0.05
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Lamar Jackson,PASS TDS,1.5,1.5,6,1.0,2.0,HIGH,0.03
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Josh Allen,PASS YDS,248.4,248.5,12,233.0,264.0,HIGH,1.48
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Lamar Jackson,PASS YDS,240.5,240.0,12,225.5,255.5,HIGH,1.84
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Zay Flowers,REC YDS,87.5,87.5,10,75.5,99.5,HIGH,3.62
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,DJ Moore,REC YDS,52.2,54.0,10,44.5,60.0,HIGH,1.72
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Khalil Shakir,REC YDS,43.0,41.5,10,36.5,49.5,HIGH,1.49
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Dalton Kincaid,REC YDS,43.2,45.5,10,36.5,50.0,HIGH,1.87
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Ja'Kobi Lane,REC YDS,32.4,32.0,10,27.0,38.0,HIGH,1.18
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Mark Andrews,REC YDS,28.0,28.5,6,23.0,33.0,HIGH,0.72
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Keon Coleman,REC YDS,28.5,28.5,6,23.5,33.5,HIGH,2.04
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Rashod Bateman,REC YDS,25.4,25.5,6,21.0,30.0,HIGH,1.01
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Ty Johnson,REC YDS,15.6,15.5,5,12.5,19.0,HIGH,0.62
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Justice Hill,REC YDS,11.6,11.5,6,8.5,14.5,HIGH,0.81
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,James Cook,REC YDS,9.6,9.5,6,7.0,12.0,HIGH,0.46
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Josh Cuevas,REC YDS,10.1,10.5,5,7.5,13.0,HIGH,0.37
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Joshua Palmer,REC YDS,9.3,9.5,4,7.0,12.0,MED,0.64
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Derrick Henry,REC YDS,6.9,7.0,6,4.5,9.0,HIGH,0.42
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Dawson Knox,REC YDS,7.5,7.5,5,5.0,10.0,HIGH,0.21
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Devontez Walker,REC YDS,-1.0,0.5,3,-2.5,0.5,LOW,1.85
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Zay Flowers,RECEPTIONS,6.2,6.5,5,5.5,7.0,HIGH,0.12
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,DJ Moore,RECEPTIONS,4.1,4.5,5,3.5,5.0,HIGH,0.05
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Khalil Shakir,RECEPTIONS,3.8,3.5,5,3.0,4.5,HIGH,0.04
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Dalton Kincaid,RECEPTIONS,3.6,3.5,5,3.0,4.5,HIGH,0.06
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Mark Andrews,RECEPTIONS,3.2,3.5,5,2.5,4.0,HIGH,0.09
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Ja'Kobi Lane,RECEPTIONS,2.5,2.5,5,2.0,3.0,HIGH,0.06
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Rashod Bateman,RECEPTIONS,2.2,2.5,5,1.5,2.5,HIGH,0.05
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Ty Johnson,RECEPTIONS,2.1,2.5,5,1.5,2.5,HIGH,0.08
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Keon Coleman,RECEPTIONS,2.1,2.5,5,1.5,2.5,HIGH,0.11
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Justice Hill,RECEPTIONS,1.7,1.5,5,1.0,2.5,HIGH,0.07
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,James Cook,RECEPTIONS,1.6,1.5,5,1.0,2.0,HIGH,0.03
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Josh Cuevas,RECEPTIONS,1.2,1.5,5,0.5,1.5,HIGH,0.02
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Dawson Knox,RECEPTIONS,1.1,1.5,5,0.5,1.5,HIGH,0.01
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Derrick Henry,RECEPTIONS,1.2,1.5,5,0.5,1.5,HIGH,0.01
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Joshua Palmer,RECEPTIONS,1.1,1.5,4,0.5,1.5,MED,0.01
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,James Cook,RUSH YDS,84.3,84.5,10,74.5,94.0,HIGH,3.61
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Derrick Henry,RUSH YDS,77.5,77.5,10,68.5,86.5,HIGH,3.08
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Josh Allen,RUSH YDS,38.0,36.5,10,33.0,43.0,HIGH,1.38
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Lamar Jackson,RUSH YDS,26.8,26.5,10,23.0,30.5,HIGH,0.95
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Justice Hill,RUSH YDS,9.4,9.5,6,7.0,11.5,HIGH,0.63
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Ray Davis,RUSH YDS,4.8,4.5,4,3.0,6.5,MED,0.16
-NFL,Baltimore Ravens @ Buffalo Bills,2026-11-01T18:00:00Z,Ty Johnson,RUSH YDS,1.5,1.5,3,0.0,3.0,MED,0.95
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Joe Burrow,PASS TDS,2.2,2.5,6,1.5,2.5,HIGH,0.02
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Cam Ward,PASS TDS,0.8,0.5,6,0.5,1.0,HIGH,0.04
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Joe Burrow,PASS YDS,271.3,271.5,12,254.5,288.0,HIGH,2.52
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Cam Ward,PASS YDS,190.7,190.5,12,178.5,203.0,HIGH,2.47
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Ja'Marr Chase,REC YDS,81.5,81.5,10,70.0,93.0,HIGH,3.14
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Tee Higgins,REC YDS,70.5,70.5,10,60.5,80.5,HIGH,1.02
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Wan'Dale Robinson,REC YDS,46.9,47.5,9,40.0,54.0,HIGH,0.56
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Elic Ayomanor,REC YDS,32.7,33.5,10,27.5,38.0,HIGH,0.94
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Mike Gesicki,REC YDS,23.0,23.0,6,19.0,27.0,HIGH,0.63
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Calvin Ridley,REC YDS,21.9,22.0,6,18.0,26.0,HIGH,0.83
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Chase Brown,REC YDS,20.9,21.0,6,17.0,25.0,HIGH,0.98
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Gunnar Helm,REC YDS,21.0,20.5,5,17.0,25.0,HIGH,0.5
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Tony Pollard,REC YDS,14.1,14.5,6,11.0,17.5,HIGH,0.6
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Dohnte Meyers,REC YDS,12.2,12.5,6,9.0,15.0,HIGH,0.73
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Daniel Bellinger,REC YDS,10.0,10.0,6,7.5,12.5,HIGH,0.89
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Drew Sample,REC YDS,8.5,8.5,6,6.0,11.0,HIGH,0.19
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Michael Carter,REC YDS,7.9,7.5,6,5.5,10.5,HIGH,0.49
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Samaje Perine,REC YDS,7.5,7.5,6,5.0,10.0,HIGH,0.13
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Ja'Marr Chase,RECEPTIONS,6.8,6.5,5,6.0,7.5,HIGH,0.1
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Wan'Dale Robinson,RECEPTIONS,5.4,5.5,5,4.5,6.0,HIGH,0.1
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Tee Higgins,RECEPTIONS,4.9,5.5,5,4.0,5.5,HIGH,0.02
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Chase Brown,RECEPTIONS,3.4,3.5,5,3.0,4.0,HIGH,0.07
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Elic Ayomanor,RECEPTIONS,2.7,2.5,5,2.0,3.5,HIGH,0.07
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Gunnar Helm,RECEPTIONS,2.6,2.5,5,2.0,3.0,HIGH,0.03
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Mike Gesicki,RECEPTIONS,2.3,2.5,5,1.5,3.0,HIGH,0.04
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Tony Pollard,RECEPTIONS,2.3,2.5,5,1.5,3.0,HIGH,0.02
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Calvin Ridley,RECEPTIONS,1.8,1.5,5,1.0,2.5,HIGH,0.03
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Michael Carter,RECEPTIONS,1.5,1.5,5,1.0,2.0,HIGH,0.04
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Dohnte Meyers,RECEPTIONS,1.4,1.5,5,1.0,2.0,HIGH,0.02
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Drew Sample,RECEPTIONS,1.3,1.5,5,1.0,2.0,HIGH,0.03
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Daniel Bellinger,RECEPTIONS,1.2,1.5,5,0.5,1.5,HIGH,0.05
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Samaje Perine,RECEPTIONS,1.2,1.5,5,0.5,1.5,HIGH,0.01
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Tony Pollard,RUSH YDS,65.5,65.5,10,57.5,73.5,HIGH,0.93
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Chase Brown,RUSH YDS,60.1,60.5,10,53.0,67.5,HIGH,1.3
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Samaje Perine,RUSH YDS,23.2,23.5,6,19.5,27.0,HIGH,0.74
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Michael Carter,RUSH YDS,12.4,12.5,6,10.0,15.0,HIGH,0.62
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Cam Ward,RUSH YDS,8.3,8.5,5,6.0,10.5,HIGH,0.28
-NFL,Tennessee Titans @ Cincinnati Bengals,2026-11-01T18:00:00Z,Joe Burrow,RUSH YDS,5.5,5.5,5,3.5,7.5,HIGH,0.27
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Aaron Rodgers,PASS TDS,1.3,1.5,6,1.0,1.5,HIGH,0.04
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Deshaun Watson,PASS TDS,0.9,0.5,5,0.5,1.5,HIGH,0.02
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Aaron Rodgers,PASS YDS,219.0,218.5,12,205.0,233.0,HIGH,1.88
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Deshaun Watson,PASS YDS,206.1,206.5,5,193.0,219.0,HIGH,2.94
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,DK Metcalf,REC YDS,54.4,54.0,10,46.5,62.5,HIGH,1.06
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Denzel Boston,REC YDS,46.9,46.5,10,39.5,54.0,HIGH,0.44
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,KC Concepcion,REC YDS,46.8,46.5,10,39.5,54.0,HIGH,0.51
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Germie Bernard,REC YDS,42.2,43.5,10,35.5,49.0,HIGH,1.43
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Harold Fannin Jr.,REC YDS,33.7,33.5,10,28.0,39.0,HIGH,0.72
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Pat Freiermuth,REC YDS,24.8,24.5,6,20.5,29.0,HIGH,0.92
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Darnell Washington,REC YDS,20.6,20.5,6,16.5,24.5,HIGH,1.03
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Jerry Jeudy,REC YDS,21.6,21.5,6,17.5,25.5,HIGH,0.14
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Jaylen Warren,REC YDS,22.6,22.0,6,18.5,27.0,HIGH,0.84
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Dylan Sampson,REC YDS,16.4,16.5,6,13.0,20.0,HIGH,0.73
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Rico Dowdle,REC YDS,14.8,15.0,6,11.5,18.0,HIGH,0.71
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Quinshon Judkins,REC YDS,9.5,9.5,6,7.0,12.0,HIGH,0.75
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Blake Whiteheart,REC YDS,-1.1,0.5,3,-2.5,0.0,LOW,1.76
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,KC Concepcion,RECEPTIONS,4.6,4.5,5,4.0,5.5,HIGH,0.06
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Germie Bernard,RECEPTIONS,4.4,4.5,5,3.5,5.0,HIGH,0.05
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,DK Metcalf,RECEPTIONS,4.2,4.5,5,3.5,5.0,HIGH,0.01
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Harold Fannin Jr.,RECEPTIONS,3.6,3.5,5,3.0,4.0,HIGH,0.07
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Denzel Boston,RECEPTIONS,3.1,3.5,5,2.5,3.5,HIGH,0.07
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Jaylen Warren,RECEPTIONS,2.9,2.5,5,2.5,3.5,HIGH,0.03
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Pat Freiermuth,RECEPTIONS,2.8,2.5,5,2.0,3.5,HIGH,0.05
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Rico Dowdle,RECEPTIONS,2.5,2.5,5,2.0,3.0,HIGH,0.03
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Dylan Sampson,RECEPTIONS,2.4,2.5,5,2.0,3.0,HIGH,0.03
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Darnell Washington,RECEPTIONS,2.3,2.5,5,1.5,3.0,HIGH,0.01
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Jerry Jeudy,RECEPTIONS,2.1,2.5,5,1.5,2.5,HIGH,0.05
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Quinshon Judkins,RECEPTIONS,1.8,1.5,5,1.5,2.5,HIGH,0.04
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Jaylen Warren,RUSH YDS,65.2,64.5,10,57.5,73.0,HIGH,1.56
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Quinshon Judkins,RUSH YDS,47.8,47.0,10,42.0,54.0,HIGH,0.84
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Rico Dowdle,RUSH YDS,31.9,31.5,10,27.5,36.5,HIGH,0.78
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Deshaun Watson,RUSH YDS,25.6,25.5,5,22.0,29.5,HIGH,0.97
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Dylan Sampson,RUSH YDS,12.1,12.0,6,9.5,14.5,HIGH,0.49
-NFL,Cleveland Browns @ Pittsburgh Steelers,2026-11-01T18:00:00Z,Aaron Rodgers,RUSH YDS,0.4,0.5,3,-1.0,1.5,MED,0.15
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jared Goff,PASS TDS,1.6,1.5,6,1.0,2.0,HIGH,0.03
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Kyler Murray,PASS TDS,1.3,1.5,6,1.0,2.0,HIGH,0.04
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jared Goff,PASS YDS,260.1,259.0,12,244.0,276.0,HIGH,1.88
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Kyler Murray,PASS YDS,225.8,224.5,12,211.5,240.0,HIGH,1.31
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Amon-Ra St. Brown,REC YDS,78.7,79.0,10,67.5,89.5,HIGH,3.41
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Justin Jefferson,REC YDS,75.9,75.5,10,65.0,86.5,HIGH,1.28
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jameson Williams,REC YDS,52.5,52.0,10,44.5,60.5,HIGH,0.82
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Sam LaPorta,REC YDS,44.0,44.5,10,37.0,51.0,HIGH,0.79
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,T.J. Hockenson,REC YDS,42.5,42.5,10,36.0,49.0,HIGH,0.85
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jordan Addison,REC YDS,38.5,38.0,10,32.5,44.5,HIGH,0.49
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jahmyr Gibbs,REC YDS,28.4,28.5,6,23.5,33.5,HIGH,1.53
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Isaac TeSlaa,REC YDS,18.4,18.5,6,14.5,22.0,HIGH,0.74
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jauan Jennings,REC YDS,12.9,12.5,6,10.0,16.0,HIGH,0.55
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Aaron Jones,REC YDS,9.1,9.0,6,6.5,11.5,HIGH,0.33
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Amon-Ra St. Brown,RECEPTIONS,7.1,7.5,5,6.5,8.0,HIGH,0.1
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Justin Jefferson,RECEPTIONS,6.1,6.5,5,5.5,7.0,HIGH,0.09
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,T.J. Hockenson,RECEPTIONS,4.4,4.5,5,3.5,5.0,HIGH,0.06
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Sam LaPorta,RECEPTIONS,4.3,4.5,5,3.5,5.0,HIGH,0.08
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jahmyr Gibbs,RECEPTIONS,4.0,4.5,5,3.5,4.5,HIGH,0.05
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jameson Williams,RECEPTIONS,3.4,3.5,5,2.5,4.0,HIGH,0.03
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jordan Addison,RECEPTIONS,3.2,3.5,5,2.5,4.0,HIGH,0.02
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Aaron Jones,RECEPTIONS,1.7,1.5,5,1.0,2.5,HIGH,0.04
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jauan Jennings,RECEPTIONS,1.5,1.5,5,1.0,2.0,HIGH,0.03
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Isaac TeSlaa,RECEPTIONS,1.4,1.5,5,1.0,2.0,HIGH,0.01
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jahmyr Gibbs,RUSH YDS,88.2,87.5,10,78.0,98.5,HIGH,3.92
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jordan Mason,RUSH YDS,49.1,49.5,10,43.0,55.5,HIGH,0.46
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Aaron Jones,RUSH YDS,29.2,29.0,10,25.0,33.5,HIGH,0.96
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Kyler Murray,RUSH YDS,24.5,24.5,6,21.0,28.0,HIGH,0.37
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Sione Vaki,RUSH YDS,5.1,5.5,6,3.5,7.0,HIGH,0.25
-NFL,Minnesota Vikings @ Detroit Lions,2026-11-01T18:00:00Z,Jared Goff,RUSH YDS,1.2,1.5,3,0.0,2.5,MED,0.02
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Trevor Lawrence,PASS TDS,1.9,1.5,6,1.5,2.5,HIGH,0.06
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Daniel Jones,PASS TDS,0.8,0.5,6,0.5,1.0,HIGH,0.02
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Trevor Lawrence,PASS YDS,241.3,238.5,12,226.5,256.5,HIGH,2.01
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Daniel Jones,PASS YDS,194.6,194.0,12,182.0,207.0,HIGH,3.33
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Parker Washington,REC YDS,68.2,68.0,10,58.5,78.0,HIGH,1.09
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Brenton Strange,REC YDS,41.6,41.5,10,35.0,48.0,HIGH,0.58
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Tyler Warren,REC YDS,40.6,40.5,10,34.0,47.0,HIGH,0.49
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Jakobi Meyers,REC YDS,34.8,33.5,10,29.0,40.5,HIGH,1.16
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Keenan Allen,REC YDS,35.2,35.0,10,29.5,41.0,HIGH,0.71
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Josh Downs,REC YDS,33.8,33.5,10,28.0,39.5,HIGH,1.04
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Laquon Treadwell,REC YDS,25.5,25.5,6,21.0,30.0,HIGH,0.9
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Jonathan Taylor,REC YDS,15.5,15.5,5,12.0,19.0,HIGH,0.16
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Josh Cameron,REC YDS,14.3,14.5,6,11.0,17.5,HIGH,0.52
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Travis Hunter,REC YDS,14.4,14.5,5,11.0,17.5,HIGH,1.02
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Bhayshul Tuten,REC YDS,14.1,14.5,6,11.0,17.5,HIGH,0.55
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Brian Thomas Jr,REC YDS,10.4,10.5,6,7.5,13.0,HIGH,0.33
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Nate Boerkircher,REC YDS,8.3,8.5,6,6.0,11.0,HIGH,0.26
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Ashton Dulin,REC YDS,2.5,2.5,3,1.0,4.5,MED,0.69
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Parker Washington,RECEPTIONS,4.8,4.5,5,4.0,5.5,HIGH,0.07
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Tyler Warren,RECEPTIONS,4.4,4.5,4,3.5,5.0,MED,0.04
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Keenan Allen,RECEPTIONS,4.2,4.5,5,3.5,5.0,HIGH,0.16
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Brenton Strange,RECEPTIONS,3.9,3.5,5,3.5,4.5,HIGH,0.15
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Josh Downs,RECEPTIONS,3.2,3.5,5,2.5,4.0,HIGH,0.04
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Jakobi Meyers,RECEPTIONS,3.1,3.5,4,2.5,3.5,MED,0.07
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Jonathan Taylor,RECEPTIONS,2.3,2.5,4,2.0,3.0,MED,0.01
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Laquon Treadwell,RECEPTIONS,2.2,2.5,5,1.5,2.5,HIGH,0.06
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Bhayshul Tuten,RECEPTIONS,2.2,2.5,5,1.5,3.0,HIGH,0.04
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Josh Cameron,RECEPTIONS,1.5,1.5,5,1.0,2.0,HIGH,0.04
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Travis Hunter,RECEPTIONS,1.5,1.5,4,1.0,2.0,MED,0.06
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Brian Thomas Jr,RECEPTIONS,1.1,1.5,5,0.5,1.5,HIGH,0.02
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Nate Boerkircher,RECEPTIONS,1.1,1.5,5,0.5,1.5,HIGH,0.08
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Bhayshul Tuten,RUSH YDS,67.0,66.5,10,59.0,75.0,HIGH,3.09
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Jonathan Taylor,RUSH YDS,50.5,50.5,9,44.0,57.0,HIGH,0.46
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Chris Rodriguez Jr.,RUSH YDS,31.3,31.5,10,27.0,35.5,HIGH,0.71
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Seth McGowan,RUSH YDS,22.9,22.5,4,19.5,26.5,MED,0.17
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Trevor Lawrence,RUSH YDS,11.6,11.5,6,9.0,14.0,HIGH,0.35
-NFL,Indianapolis Colts @ Jacksonville Jaguars,2026-11-01T18:00:00Z,Daniel Jones,RUSH YDS,8.6,8.5,6,6.5,11.0,HIGH,0.86
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Kirk Cousins,PASS TDS,1.6,1.5,5,1.0,2.0,HIGH,0.03
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Geno Smith,PASS TDS,1.5,1.5,5,1.0,2.0,HIGH,0.02
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Kirk Cousins,PASS YDS,231.2,231.5,11,216.5,245.5,HIGH,0.75
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Geno Smith,PASS YDS,226.0,225.5,11,212.0,240.0,HIGH,1.28
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Brock Bowers,REC YDS,68.5,68.5,9,58.5,78.5,HIGH,1.34
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Garrett Wilson,REC YDS,62.9,62.5,9,54.0,72.0,HIGH,1.53
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Tre Tucker,REC YDS,47.0,48.5,9,40.0,54.0,HIGH,0.72
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Omar Cooper Jr.,REC YDS,41.6,41.5,9,35.0,48.0,HIGH,0.41
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Ashton Jeanty,REC YDS,27.5,27.5,5,22.5,32.5,HIGH,0.22
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Michael Mayer,REC YDS,25.5,25.5,5,21.0,30.0,HIGH,0.44
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Adonai Mitchell,REC YDS,24.6,24.5,5,20.0,29.0,HIGH,0.12
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Mason Taylor,REC YDS,21.9,21.5,5,18.0,26.0,HIGH,0.54
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Braelon Allen,REC YDS,17.7,17.5,3,14.0,21.5,MED,0.56
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Jalen Nailor,REC YDS,16.5,16.5,5,13.0,20.0,HIGH,0.63
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Kenyon Sadiq,REC YDS,16.5,16.5,5,13.0,20.0,HIGH,0.52
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Brock Bowers,RECEPTIONS,5.9,5.5,4,5.0,6.5,MED,0.03
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Garrett Wilson,RECEPTIONS,5.4,5.5,4,4.5,6.0,MED,0.01
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Ashton Jeanty,RECEPTIONS,3.6,3.5,4,3.0,4.0,MED,0.0
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Tre Tucker,RECEPTIONS,3.6,3.5,4,3.0,4.0,MED,0.02
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Omar Cooper Jr.,RECEPTIONS,3.2,3.5,4,2.5,4.0,MED,0.03
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Michael Mayer,RECEPTIONS,2.9,2.5,4,2.5,3.5,MED,0.02
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Braelon Allen,RECEPTIONS,2.9,2.5,3,2.5,3.5,MED,0.02
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Mason Taylor,RECEPTIONS,2.6,2.5,4,2.0,3.0,MED,0.03
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Kenyon Sadiq,RECEPTIONS,1.8,1.5,4,1.5,2.5,MED,0.05
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Adonai Mitchell,RECEPTIONS,1.9,2.0,4,1.5,2.5,MED,0.11
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Jalen Nailor,RECEPTIONS,1.6,1.5,4,1.0,2.0,MED,0.02
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Braelon Allen,RUSH YDS,79.1,79.5,9,70.0,88.5,HIGH,3.58
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Ashton Jeanty,RUSH YDS,50.8,50.5,9,44.5,57.0,HIGH,0.88
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Mike Washington Jr.,RUSH YDS,32.5,31.5,9,28.0,37.0,HIGH,1.05
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Geno Smith,RUSH YDS,6.5,6.5,5,4.5,8.5,HIGH,0.05
-NFL,Las Vegas Raiders @ New York Jets,2026-11-01T18:00:00Z,Kirk Cousins,RUSH YDS,0.1,0.5,3,-1.0,1.5,MED,0.05
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Matthew Stafford,PASS TDS,1.8,1.5,6,1.5,2.5,HIGH,0.03
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Justin Herbert,PASS TDS,1.2,1.5,6,0.5,1.5,HIGH,0.02
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Matthew Stafford,PASS YDS,249.7,250.0,12,234.0,265.0,HIGH,1.49
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Justin Herbert,PASS YDS,206.2,205.5,12,193.0,219.5,HIGH,2.37
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Puka Nacua,REC YDS,93.3,93.5,10,80.5,106.0,HIGH,4.19
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Ladd McConkey,REC YDS,48.6,47.5,10,41.5,56.0,HIGH,0.93
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Tre Harris,REC YDS,34.0,33.5,9,28.5,39.5,HIGH,0.84
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Tyler Higbee,REC YDS,34.4,35.0,10,29.0,40.0,HIGH,1.25
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Quentin Johnston,REC YDS,31.8,31.5,9,26.5,37.0,HIGH,0.87
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Kyren Williams,REC YDS,23.6,23.5,6,19.5,28.0,HIGH,0.41
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Charlie Kolar,REC YDS,17.5,17.5,6,14.0,21.0,HIGH,0.53
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Oronde Gadsden II,REC YDS,16.4,16.5,6,13.0,20.0,HIGH,0.48
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Konata Mumpfield,REC YDS,17.3,17.5,6,13.5,21.0,HIGH,0.65
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Kimani Vidal,REC YDS,7.9,8.0,6,5.5,10.5,HIGH,0.5
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Keaton Mitchell,REC YDS,7.5,7.5,5,5.0,10.0,HIGH,0.43
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Blake Corum,REC YDS,7.0,7.0,6,4.5,9.5,HIGH,0.38
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Omarion Hampton,REC YDS,5.9,6.0,6,3.5,8.0,HIGH,0.51
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Puka Nacua,RECEPTIONS,7.8,7.5,5,7.0,8.5,HIGH,0.18
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Ladd McConkey,RECEPTIONS,3.8,3.5,5,3.0,4.5,HIGH,0.03
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Tyler Higbee,RECEPTIONS,3.4,3.5,5,3.0,4.0,HIGH,0.02
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Kyren Williams,RECEPTIONS,3.2,3.5,5,2.5,4.0,HIGH,0.04
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Tre Harris,RECEPTIONS,2.7,2.5,5,2.0,3.5,HIGH,0.08
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Quentin Johnston,RECEPTIONS,2.4,2.5,5,2.0,3.0,HIGH,0.04
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Charlie Kolar,RECEPTIONS,2.1,2.5,5,1.5,2.5,HIGH,0.05
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Oronde Gadsden II,RECEPTIONS,1.7,1.5,5,1.0,2.5,HIGH,0.03
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Konata Mumpfield,RECEPTIONS,1.5,1.5,5,1.0,2.0,HIGH,0.03
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Keaton Mitchell,RECEPTIONS,1.4,1.5,5,1.0,2.0,HIGH,0.04
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Kimani Vidal,RECEPTIONS,1.4,1.5,5,1.0,2.0,HIGH,0.03
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Omarion Hampton,RECEPTIONS,1.2,1.5,5,0.5,1.5,HIGH,0.02
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Blake Corum,RECEPTIONS,1.1,1.5,5,0.5,1.5,HIGH,0.04
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Kyren Williams,RUSH YDS,59.7,60.5,10,52.5,67.0,HIGH,1.12
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Blake Corum,RUSH YDS,47.0,47.0,10,41.0,53.0,HIGH,0.49
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Omarion Hampton,RUSH YDS,33.4,33.5,10,29.0,38.0,HIGH,1.0
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Justin Herbert,RUSH YDS,24.4,24.5,6,20.5,28.0,HIGH,0.59
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Kimani Vidal,RUSH YDS,23.6,23.5,6,20.0,27.5,HIGH,0.94
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Keaton Mitchell,RUSH YDS,15.7,15.5,4,13.0,18.5,MED,0.56
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Puka Nacua,RUSH YDS,0.9,1.5,3,-0.5,2.5,MED,0.02
-NFL,Los Angeles Chargers @ Los Angeles Rams,2026-11-01T21:05:00Z,Matthew Stafford,RUSH YDS,-0.5,0.5,3,-1.5,0.5,MED,0.07
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Patrick Mahomes,PASS TDS,1.2,1.5,6,0.5,1.5,HIGH,0.02
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Bo Nix,PASS TDS,1.1,1.5,6,0.5,1.5,HIGH,0.02
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Patrick Mahomes,PASS YDS,226.5,223.0,12,212.5,240.5,HIGH,2.46
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Bo Nix,PASS YDS,208.5,208.5,12,195.5,221.5,HIGH,2.2
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Rashee Rice,REC YDS,50.6,50.5,9,43.0,58.0,HIGH,0.68
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Travis Kelce,REC YDS,46.3,45.5,10,39.0,53.5,HIGH,0.63
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Courtland Sutton,REC YDS,39.4,39.0,10,33.0,45.5,HIGH,0.95
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Jaylen Waddle,REC YDS,38.9,38.5,9,32.5,45.0,HIGH,0.66
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Xavier Worthy,REC YDS,30.0,30.5,10,25.0,35.0,HIGH,0.66
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Evan Engram,REC YDS,24.4,24.5,6,20.0,29.0,HIGH,0.76
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Jonah Coleman,REC YDS,21.2,21.5,6,17.0,25.0,HIGH,0.31
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Kenneth Walker III,REC YDS,19.6,19.5,6,15.5,23.5,HIGH,0.52
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Marvin Mims Jr.,REC YDS,16.0,16.0,4,12.5,19.5,MED,0.25
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Noah Gray,REC YDS,14.5,14.5,6,11.5,17.5,HIGH,0.33
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Troy Franklin,REC YDS,12.2,12.0,4,9.0,15.0,MED,1.09
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Emmett Johnson,REC YDS,7.4,7.5,5,5.0,9.5,HIGH,0.22
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Cyrus Allen,REC YDS,-0.3,0.5,3,-1.5,1.0,LOW,1.97
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Rashee Rice,RECEPTIONS,4.5,4.5,5,4.0,5.0,HIGH,0.06
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Travis Kelce,RECEPTIONS,4.2,4.5,5,3.5,5.0,HIGH,0.06
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Jaylen Waddle,RECEPTIONS,3.7,3.5,5,3.0,4.5,HIGH,0.06
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Courtland Sutton,RECEPTIONS,3.3,3.5,5,2.5,4.0,HIGH,0.05
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Kenneth Walker III,RECEPTIONS,3.1,3.5,5,2.5,3.5,HIGH,0.14
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Xavier Worthy,RECEPTIONS,3.2,3.5,5,2.5,4.0,HIGH,0.03
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Jonah Coleman,RECEPTIONS,3.1,3.5,5,2.5,4.0,HIGH,0.1
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Evan Engram,RECEPTIONS,2.6,2.5,5,2.0,3.0,HIGH,0.06
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Marvin Mims Jr.,RECEPTIONS,1.8,1.5,3,1.5,2.5,MED,0.02
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Troy Franklin,RECEPTIONS,1.5,1.5,4,1.0,2.0,MED,0.01
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Noah Gray,RECEPTIONS,1.4,1.5,5,1.0,2.0,HIGH,0.02
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Emmett Johnson,RECEPTIONS,1.2,1.5,5,0.5,1.5,HIGH,0.01
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Cyrus Allen,RECEPTIONS,0.5,0.5,4,0.0,1.0,MED,0.01
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Kenneth Walker III,RUSH YDS,87.3,87.0,10,77.0,97.5,HIGH,4.62
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Jonah Coleman,RUSH YDS,44.5,44.5,10,38.5,50.5,HIGH,1.08
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,J.K. Dobbins,RUSH YDS,30.1,30.0,10,26.0,34.5,HIGH,0.83
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Bo Nix,RUSH YDS,15.1,15.0,6,12.5,18.0,HIGH,0.47
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Patrick Mahomes,RUSH YDS,13.7,13.5,6,11.0,16.5,HIGH,0.47
-NFL,Kansas City Chiefs @ Denver Broncos,2026-11-01T21:25:00Z,Emmett Johnson,RUSH YDS,7.5,7.5,4,5.5,9.5,MED,0.1
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Drake Maye,PASS TDS,1.5,1.5,6,1.0,2.0,HIGH,0.03
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Malik Willis,PASS TDS,0.7,0.5,6,0.5,1.0,HIGH,0.02
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Drake Maye,PASS YDS,242.2,239.5,12,227.0,257.5,HIGH,5.0
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Malik Willis,PASS YDS,173.7,174.0,12,162.5,185.0,HIGH,3.49
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Hunter Henry,REC YDS,45.6,45.5,10,38.5,52.5,HIGH,0.79
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Malik Washington,REC YDS,39.6,39.5,10,33.5,46.0,HIGH,0.77
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,DeMario Douglas,REC YDS,39.3,40.5,10,33.0,45.5,HIGH,1.11
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Caleb Douglas,REC YDS,37.5,37.5,10,31.5,43.5,HIGH,1.28
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Greg Dulcich,REC YDS,26.9,27.5,6,22.0,31.5,HIGH,1.03
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Efton Chism III,REC YDS,27.1,26.5,6,22.5,32.0,HIGH,0.92
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Eli Raridon,REC YDS,27.1,27.0,6,22.5,32.0,HIGH,1.22
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Kyle Williams,REC YDS,23.5,23.5,6,19.0,28.0,HIGH,1.02
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Rhamondre Stevenson,REC YDS,23.5,23.5,6,19.0,28.0,HIGH,1.15
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Chris Bell,REC YDS,18.1,18.5,5,14.5,22.0,HIGH,0.45
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Ollie Gordon II,REC YDS,10.5,10.5,5,8.0,13.0,HIGH,0.51
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Corey Kiner,REC YDS,1.5,1.5,3,0.0,3.0,MED,0.02
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Will Kacmarek,REC YDS,-0.5,0.5,3,-2.0,1.0,MED,0.67
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Hunter Henry,RECEPTIONS,4.3,4.5,5,3.5,5.0,HIGH,0.08
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Malik Washington,RECEPTIONS,4.1,4.5,5,3.5,5.0,HIGH,0.06
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,DeMario Douglas,RECEPTIONS,3.4,3.5,5,2.5,4.0,HIGH,0.03
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Caleb Douglas,RECEPTIONS,3.0,3.5,5,2.5,3.5,HIGH,0.07
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Greg Dulcich,RECEPTIONS,3.1,3.0,4,2.5,3.5,MED,0.11
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Rhamondre Stevenson,RECEPTIONS,2.7,2.5,5,2.0,3.5,HIGH,0.09
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Efton Chism III,RECEPTIONS,2.6,2.5,5,2.0,3.0,HIGH,0.03
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Eli Raridon,RECEPTIONS,2.4,2.5,5,2.0,3.0,HIGH,0.02
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Chris Bell,RECEPTIONS,1.6,1.5,5,1.0,2.0,HIGH,0.03
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Ollie Gordon II,RECEPTIONS,1.5,1.5,4,1.0,2.0,MED,0.01
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Kyle Williams,RECEPTIONS,1.3,1.5,4,1.0,2.0,MED,0.03
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Will Kacmarek,RECEPTIONS,0.5,0.5,4,0.0,1.0,MED,0.01
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Ollie Gordon II,RUSH YDS,62.2,61.0,10,54.5,70.0,HIGH,1.77
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Rhamondre Stevenson,RUSH YDS,59.1,58.5,10,52.0,66.5,HIGH,0.97
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Corey Kiner,RUSH YDS,35.5,35.5,9,30.5,40.5,HIGH,0.66
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Malik Willis,RUSH YDS,33.0,32.5,10,28.5,37.5,HIGH,0.42
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Drake Maye,RUSH YDS,25.2,24.0,10,21.5,29.0,HIGH,1.23
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Jaylen Wright,RUSH YDS,14.8,15.0,6,12.0,17.5,HIGH,0.74
-NFL,New England Patriots @ Miami Dolphins,2026-11-01T21:25:00Z,Malik Washington,RUSH YDS,5.2,5.5,4,3.5,7.0,MED,0.11
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Jayden Daniels,PASS TDS,1.3,1.5,6,1.0,2.0,HIGH,0.02
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Tanner McKee,PASS TDS,0.8,0.5,6,0.5,1.5,HIGH,0.03
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Tanner McKee,PASS YDS,203.5,203.5,12,190.5,216.5,HIGH,1.72
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Jayden Daniels,PASS YDS,199.8,199.0,12,187.0,212.5,HIGH,2.22
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Dallas Goedert,REC YDS,45.2,45.5,10,38.0,52.0,HIGH,0.67
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Makai Lemon,REC YDS,42.9,43.0,10,36.5,49.5,HIGH,1.17
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Stefon Diggs,REC YDS,42.5,42.5,10,36.0,49.0,HIGH,0.34
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Antonio Williams,REC YDS,37.1,36.5,10,31.0,43.0,HIGH,0.66
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Chig Okonkwo,REC YDS,33.8,33.5,10,28.5,39.5,HIGH,0.92
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Darius Cooper,REC YDS,27.2,27.5,6,22.5,32.0,HIGH,0.63
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Treylon Burks,REC YDS,21.5,21.5,6,17.5,25.5,HIGH,0.19
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Rachaad White,REC YDS,13.4,13.5,6,10.5,16.5,HIGH,0.28
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Saquon Barkley,REC YDS,13.1,13.5,5,10.0,16.0,HIGH,0.19
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Dyami Brown,REC YDS,12.3,12.5,6,9.5,15.5,HIGH,0.15
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Dallas Goedert,RECEPTIONS,4.8,4.5,5,4.0,5.5,HIGH,0.02
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Makai Lemon,RECEPTIONS,4.6,4.5,5,4.0,5.5,HIGH,0.09
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Stefon Diggs,RECEPTIONS,4.1,4.5,5,3.5,4.5,HIGH,0.06
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Chig Okonkwo,RECEPTIONS,3.3,3.5,5,2.5,4.0,HIGH,0.06
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Antonio Williams,RECEPTIONS,3.1,3.5,5,2.5,4.0,HIGH,0.05
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Darius Cooper,RECEPTIONS,2.4,2.5,5,2.0,3.0,HIGH,0.01
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Rachaad White,RECEPTIONS,2.3,2.5,5,1.5,3.0,HIGH,0.03
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Saquon Barkley,RECEPTIONS,2.1,2.5,4,1.5,2.5,MED,0.07
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Treylon Burks,RECEPTIONS,1.6,1.5,5,1.0,2.0,HIGH,0.04
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Dyami Brown,RECEPTIONS,1.3,1.5,5,1.0,2.0,HIGH,0.03
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Saquon Barkley,RUSH YDS,52.5,52.5,9,46.0,59.0,HIGH,0.87
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Rachaad White,RUSH YDS,41.5,41.5,10,36.0,47.0,HIGH,0.91
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Jayden Daniels,RUSH YDS,37.1,37.0,10,32.0,42.0,HIGH,0.49
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Elijah Mitchell,RUSH YDS,26.6,26.5,9,22.5,30.5,HIGH,1.04
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Jeremy McNichols,RUSH YDS,19.8,19.5,6,16.5,23.0,HIGH,0.47
-NFL,Philadelphia Eagles @ Washington Commanders,2026-11-02T01:20:00Z,Tanner McKee,RUSH YDS,2.5,2.5,3,1.0,4.0,MED,0.87
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Marcel Reed,PASS TDS,0.9,0.5,3,0.5,1.5,MED,0.08
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,LaNorris Sellers,PASS TDS,1.7,1.5,3,1.0,2.0,MED,0.02
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Marcel Reed,PASS YDS,192.5,192.5,3,180.0,205.0,MED,0.0
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,LaNorris Sellers,PASS YDS,237.5,237.5,3,222.5,252.5,MED,0.0
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Aaron Gregory,REC YDS,23.5,23.5,3,19.0,28.0,MED,1.41
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,DJ Black,REC YDS,36.5,36.5,3,30.5,42.5,MED,0.09
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Nyck Harbor,REC YDS,35.5,35.5,3,29.5,41.5,MED,0.94
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Mazeo Bennett Jr.,REC YDS,48.5,48.5,3,41.0,56.0,MED,0.11
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Mario Craver,REC YDS,46.5,46.5,3,39.5,53.5,MED,0.0
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Isaiah Horton,REC YDS,33.9,33.5,3,28.5,39.5,MED,1.32
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Marcel Reed,RUSH YDS,22.5,22.5,3,19.0,26.0,MED,0.57
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,LaNorris Sellers,RUSH YDS,54.5,54.5,3,47.5,61.5,MED,0.47
+NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Jabree Coleman,RUSH YDS,42.5,42.5,3,37.0,48.0,MED,1.68
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Keelon Russell,PASS TDS,1.2,1.5,3,1.0,1.5,MED,0.01
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Sam Leavitt,PASS TDS,1.6,1.5,3,1.0,2.0,MED,0.07
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Sam Leavitt,PASS YDS,270.3,270.0,4,253.5,287.0,MED,2.98
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Keelon Russell,PASS YDS,234.8,235.0,4,220.0,249.5,MED,1.39
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Eugene Wilson III,REC YDS,29.2,29.0,4,24.0,34.0,MED,2.0
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Lotzeir Brooks,REC YDS,42.5,42.5,4,36.0,49.0,MED,0.43
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Kaleb Edwards,REC YDS,14.0,14.0,4,11.0,17.0,MED,0.83
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Winston Watkins Jr.,REC YDS,42.5,42.5,4,36.0,49.0,MED,0.95
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Trey'Dez Green,REC YDS,48.0,48.0,4,40.5,55.5,MED,1.74
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Rico Scott,REC YDS,48.6,48.5,4,41.5,56.0,MED,0.59
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Daniel Hill,REC YDS,8.5,8.5,3,6.0,11.0,MED,0.0
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Jackson Harris,REC YDS,65.5,65.5,4,56.0,75.0,MED,0.34
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Marshall Pritchett,REC YDS,19.5,19.5,4,15.5,23.5,MED,0.56
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Dilin Jones,REC YDS,23.5,23.5,4,19.0,28.0,MED,1.14
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Sam Leavitt,RUSH YDS,34.5,34.5,4,30.0,39.0,MED,0.16
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Keelon Russell,RUSH YDS,20.3,20.5,4,17.0,23.5,MED,0.86
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Daniel Hill,RUSH YDS,27.1,27.0,4,23.0,31.0,MED,0.68
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Dilin Jones,RUSH YDS,78.5,78.5,4,69.5,87.5,MED,0.35
+NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Trae'shawn Brown,RUSH YDS,24.6,24.5,4,21.0,28.5,MED,1.28
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,JC French IV,PASS TDS,1.3,1.5,3,1.0,1.5,MED,0.03
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Conner Weigman,PASS TDS,1.8,1.5,3,1.5,2.5,MED,0.03
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Conner Weigman,PASS YDS,259.5,259.5,3,243.5,275.5,MED,0.0
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,JC French IV,PASS YDS,225.5,225.5,3,211.5,239.5,MED,0.0
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,JV Gibson,REC YDS,57.5,57.5,3,49.0,66.0,MED,0.13
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Patrick Overmyer,REC YDS,52.5,52.5,3,44.5,60.5,MED,0.12
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Trent Walker,REC YDS,49.5,49.5,3,42.0,57.0,MED,0.11
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Koby Young,REC YDS,46.5,46.5,3,39.5,53.5,MED,0.15
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Amare Thomas,REC YDS,69.5,69.5,3,59.5,79.5,MED,0.3
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Makhi Hughes,RUSH YDS,77.5,77.5,3,68.5,86.5,MED,0.66
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,JC French IV,RUSH YDS,26.5,26.5,3,22.5,30.5,MED,0.0
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Cole Tabb,RUSH YDS,71.2,71.5,3,63.0,79.5,MED,0.28
+NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Conner Weigman,RUSH YDS,32.5,32.5,3,28.0,37.0,MED,0.0
