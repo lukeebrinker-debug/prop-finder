@@ -1,46 +1,179 @@
 sport,game,start,player,stat,fair,book_line,books,over_if_pp_at_or_below,under_if_pp_at_or_above,agreement,spread
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Marcel Reed,PASS TDS,0.9,0.5,3,0.5,1.5,MED,0.08
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,LaNorris Sellers,PASS TDS,1.7,1.5,3,1.0,2.0,MED,0.02
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Marcel Reed,PASS YDS,192.5,192.5,3,180.0,205.0,MED,0.0
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,LaNorris Sellers,PASS YDS,237.5,237.5,3,222.5,252.5,MED,0.0
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Aaron Gregory,REC YDS,23.5,23.5,3,19.0,28.0,MED,1.41
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,DJ Black,REC YDS,36.5,36.5,3,30.5,42.5,MED,0.09
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Nyck Harbor,REC YDS,35.5,35.5,3,29.5,41.5,MED,0.94
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Mazeo Bennett Jr.,REC YDS,48.5,48.5,3,41.0,56.0,MED,0.11
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Mario Craver,REC YDS,46.5,46.5,3,39.5,53.5,MED,0.0
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Isaiah Horton,REC YDS,33.9,33.5,3,28.5,39.5,MED,1.32
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Marcel Reed,RUSH YDS,22.5,22.5,3,19.0,26.0,MED,0.57
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,LaNorris Sellers,RUSH YDS,54.5,54.5,3,47.5,61.5,MED,0.47
-NCAAF,Texas A&M Aggies @ South Carolina Gamecocks,2026-11-07T20:00:00Z,Jabree Coleman,RUSH YDS,42.5,42.5,3,37.0,48.0,MED,1.68
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Keelon Russell,PASS TDS,1.2,1.5,3,1.0,1.5,MED,0.01
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Sam Leavitt,PASS TDS,1.6,1.5,3,1.0,2.0,MED,0.07
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Sam Leavitt,PASS YDS,270.3,270.0,4,253.5,287.0,MED,2.98
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Keelon Russell,PASS YDS,234.8,235.0,4,220.0,249.5,MED,1.39
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Eugene Wilson III,REC YDS,29.2,29.0,4,24.0,34.0,MED,2.0
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Lotzeir Brooks,REC YDS,42.5,42.5,4,36.0,49.0,MED,0.43
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Kaleb Edwards,REC YDS,14.0,14.0,4,11.0,17.0,MED,0.83
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Winston Watkins Jr.,REC YDS,42.5,42.5,4,36.0,49.0,MED,0.95
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Trey'Dez Green,REC YDS,48.0,48.0,4,40.5,55.5,MED,1.74
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Rico Scott,REC YDS,48.6,48.5,4,41.5,56.0,MED,0.59
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Daniel Hill,REC YDS,8.5,8.5,3,6.0,11.0,MED,0.0
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Jackson Harris,REC YDS,65.5,65.5,4,56.0,75.0,MED,0.34
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Marshall Pritchett,REC YDS,19.5,19.5,4,15.5,23.5,MED,0.56
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Dilin Jones,REC YDS,23.5,23.5,4,19.0,28.0,MED,1.14
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Sam Leavitt,RUSH YDS,34.5,34.5,4,30.0,39.0,MED,0.16
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Keelon Russell,RUSH YDS,20.3,20.5,4,17.0,23.5,MED,0.86
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Daniel Hill,RUSH YDS,27.1,27.0,4,23.0,31.0,MED,0.68
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Dilin Jones,RUSH YDS,78.5,78.5,4,69.5,87.5,MED,0.35
-NCAAF,Alabama Crimson Tide @ LSU Tigers,2026-11-07T20:30:00Z,Trae'shawn Brown,RUSH YDS,24.6,24.5,4,21.0,28.5,MED,1.28
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,JC French IV,PASS TDS,1.3,1.5,3,1.0,1.5,MED,0.03
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Conner Weigman,PASS TDS,1.8,1.5,3,1.5,2.5,MED,0.03
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Conner Weigman,PASS YDS,259.5,259.5,3,243.5,275.5,MED,0.0
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,JC French IV,PASS YDS,225.5,225.5,3,211.5,239.5,MED,0.0
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,JV Gibson,REC YDS,57.5,57.5,3,49.0,66.0,MED,0.13
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Patrick Overmyer,REC YDS,52.5,52.5,3,44.5,60.5,MED,0.12
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Trent Walker,REC YDS,49.5,49.5,3,42.0,57.0,MED,0.11
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Koby Young,REC YDS,46.5,46.5,3,39.5,53.5,MED,0.15
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Amare Thomas,REC YDS,69.5,69.5,3,59.5,79.5,MED,0.3
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Makhi Hughes,RUSH YDS,77.5,77.5,3,68.5,86.5,MED,0.66
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,JC French IV,RUSH YDS,26.5,26.5,3,22.5,30.5,MED,0.0
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Cole Tabb,RUSH YDS,71.2,71.5,3,63.0,79.5,MED,0.28
-NCAAF,Cincinnati Bearcats @ Houston Cougars,2026-11-07T20:30:00Z,Conner Weigman,RUSH YDS,32.5,32.5,3,28.0,37.0,MED,0.0
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,C.J. Stroud,PASS TDS,1.5,1.5,6,1.0,2.0,HIGH,0.05
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Justin Herbert,PASS TDS,0.9,0.5,6,0.5,1.5,HIGH,0.05
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,C.J. Stroud,PASS YDS,246.8,247.0,12,231.5,262.0,HIGH,1.28
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Justin Herbert,PASS YDS,206.0,205.5,12,193.0,219.0,HIGH,1.9
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Nico Collins,REC YDS,68.8,69.0,10,59.0,78.5,HIGH,1.82
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Ladd McConkey,REC YDS,52.7,52.5,10,45.0,60.5,HIGH,0.99
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Dalton Schultz,REC YDS,35.6,34.5,10,30.0,41.5,HIGH,1.34
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Quentin Johnston,REC YDS,30.5,30.5,6,25.5,35.5,HIGH,0.7
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Tre Harris,REC YDS,29.5,29.5,6,24.5,34.5,HIGH,0.79
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Marvin Harrison Jr.,REC YDS,22.5,22.5,6,18.5,26.5,HIGH,1.41
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Xavier Hutchinson,REC YDS,22.3,22.5,6,18.0,26.5,HIGH,1.05
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Oronde Gadsden II,REC YDS,16.5,16.5,5,13.0,20.0,HIGH,0.64
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Charlie Kolar,REC YDS,15.8,15.5,6,12.5,19.0,HIGH,0.67
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Tank Dell,REC YDS,15.5,15.5,6,12.0,19.0,HIGH,0.72
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Woody Marks,REC YDS,13.7,13.5,6,10.5,17.0,HIGH,0.45
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Kayshon Boutte,REC YDS,13.4,13.5,6,10.5,16.5,HIGH,0.93
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Foster Moreau,REC YDS,9.0,8.5,6,6.5,11.5,HIGH,0.39
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Kimani Vidal,REC YDS,7.6,7.5,6,5.5,10.0,HIGH,0.25
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Keaton Mitchell,REC YDS,6.8,6.5,5,4.5,9.0,HIGH,0.51
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Omarion Hampton,REC YDS,6.7,6.5,6,4.5,9.0,HIGH,0.15
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Nico Collins,RECEPTIONS,5.0,5.5,5,4.5,6.0,HIGH,0.06
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Ladd McConkey,RECEPTIONS,4.1,4.5,5,3.5,4.5,HIGH,0.06
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Dalton Schultz,RECEPTIONS,3.7,3.5,5,3.0,4.5,HIGH,0.17
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Tre Harris,RECEPTIONS,2.6,2.5,5,2.0,3.0,HIGH,0.04
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Quentin Johnston,RECEPTIONS,2.3,2.5,5,2.0,3.0,HIGH,0.05
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Woody Marks,RECEPTIONS,2.2,2.5,5,1.5,3.0,HIGH,0.03
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Marvin Harrison Jr.,RECEPTIONS,2.3,2.5,5,1.5,3.0,HIGH,0.07
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Xavier Hutchinson,RECEPTIONS,2.1,2.5,5,1.5,2.5,HIGH,0.02
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Oronde Gadsden II,RECEPTIONS,1.8,1.5,5,1.5,2.5,HIGH,0.03
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Charlie Kolar,RECEPTIONS,1.8,1.5,5,1.0,2.5,HIGH,0.06
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Keaton Mitchell,RECEPTIONS,1.5,1.5,5,1.0,2.0,HIGH,0.03
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Kimani Vidal,RECEPTIONS,1.5,1.5,5,1.0,2.0,HIGH,0.04
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Omarion Hampton,RECEPTIONS,1.4,1.5,5,1.0,2.0,HIGH,0.02
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Tank Dell,RECEPTIONS,1.3,1.5,4,1.0,2.0,MED,0.01
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Kayshon Boutte,RECEPTIONS,1.2,1.5,5,0.5,1.5,HIGH,0.02
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Foster Moreau,RECEPTIONS,1.2,1.5,5,0.5,1.5,HIGH,0.02
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Woody Marks,RUSH YDS,63.5,63.5,10,56.0,71.0,HIGH,1.21
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Omarion Hampton,RUSH YDS,36.0,36.0,10,31.0,41.0,HIGH,0.81
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Justin Herbert,RUSH YDS,21.6,21.5,6,18.0,25.0,HIGH,0.88
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Kimani Vidal,RUSH YDS,19.3,19.0,6,16.0,22.5,HIGH,1.05
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,Keaton Mitchell,RUSH YDS,11.8,11.5,5,9.5,14.0,HIGH,0.12
+NFL,Houston Texans @ Los Angeles Chargers,2026-11-08T21:05:00Z,C.J. Stroud,RUSH YDS,7.6,7.5,6,5.5,9.5,HIGH,0.3
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Drew Lock,PASS TDS,1.5,1.5,6,1.0,2.0,HIGH,0.05
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Gardner Minshew II,PASS TDS,0.8,0.5,6,0.5,1.5,HIGH,0.02
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Drew Lock,PASS YDS,200.3,200.5,12,187.5,213.0,HIGH,2.42
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Gardner Minshew II,PASS YDS,197.5,197.5,12,185.0,210.0,HIGH,2.19
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Jaxon Smith-Njigba,REC YDS,94.3,94.5,6,81.5,107.0,HIGH,1.0
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Trey McBride,REC YDS,61.4,61.5,6,52.5,70.5,HIGH,1.09
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Michael Wilson,REC YDS,48.6,48.5,6,41.5,56.0,HIGH,0.65
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,AJ Barner,REC YDS,24.6,24.5,6,20.0,29.0,HIGH,0.87
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Cooper Kupp,REC YDS,24.6,24.5,6,20.0,29.0,HIGH,0.99
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Tory Horton,REC YDS,17.5,17.5,6,14.0,21.0,HIGH,0.15
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Tyler Allgeier,REC YDS,16.7,16.5,6,13.0,20.0,HIGH,0.26
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Reggie Virgil,REC YDS,14.1,14.0,6,11.0,17.5,HIGH,0.89
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Elijah Higgins,REC YDS,13.5,13.5,6,10.5,16.5,HIGH,0.37
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Jadarian Price,REC YDS,9.7,9.5,6,7.0,12.5,HIGH,0.76
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Zach Charbonnet,REC YDS,6.6,6.5,6,4.5,9.0,HIGH,0.48
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Jaxon Smith-Njigba,RECEPTIONS,7.0,7.5,5,6.0,8.0,HIGH,0.03
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Trey McBride,RECEPTIONS,6.9,6.5,5,6.0,7.5,HIGH,0.12
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Michael Wilson,RECEPTIONS,4.3,4.5,5,3.5,5.0,HIGH,0.04
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Tyler Allgeier,RECEPTIONS,2.7,2.5,5,2.0,3.5,HIGH,0.02
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,AJ Barner,RECEPTIONS,2.7,2.5,5,2.0,3.5,HIGH,0.03
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Cooper Kupp,RECEPTIONS,2.5,2.5,5,2.0,3.0,HIGH,0.04
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Tory Horton,RECEPTIONS,1.9,1.5,5,1.5,2.5,HIGH,0.05
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Jadarian Price,RECEPTIONS,1.6,1.5,5,1.0,2.0,HIGH,0.05
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Elijah Higgins,RECEPTIONS,1.7,1.5,5,1.0,2.0,HIGH,0.05
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Zach Charbonnet,RECEPTIONS,1.4,1.5,5,1.0,2.0,HIGH,0.03
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Reggie Virgil,RECEPTIONS,1.3,1.5,5,1.0,2.0,HIGH,0.04
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Jadarian Price,RUSH YDS,55.7,55.5,6,49.0,62.5,HIGH,1.02
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Tyler Allgeier,RUSH YDS,49.5,49.5,6,43.0,56.0,HIGH,0.51
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Zach Charbonnet,RUSH YDS,35.5,35.5,6,30.5,40.5,HIGH,0.62
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Drew Lock,RUSH YDS,6.6,6.5,5,4.5,8.5,HIGH,0.61
+NFL,Arizona Cardinals @ Seattle Seahawks,2026-11-08T21:25:00Z,Gardner Minshew II,RUSH YDS,5.7,5.5,5,4.0,7.5,HIGH,0.08
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Drake Maye,PASS TDS,1.5,1.5,6,1.0,2.0,HIGH,0.03
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Jordan Love,PASS TDS,1.4,1.5,6,1.0,2.0,HIGH,0.02
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Jordan Love,PASS YDS,272.8,270.5,12,256.0,289.5,HIGH,3.98
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Drake Maye,PASS YDS,230.1,230.0,12,215.5,244.5,HIGH,1.1
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Matthew Golden,REC YDS,68.9,68.0,10,59.0,78.5,HIGH,1.94
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Christian Watson,REC YDS,69.5,69.5,10,59.5,79.5,HIGH,1.17
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Tucker Kraft,REC YDS,45.8,45.5,10,39.0,53.0,HIGH,0.89
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,DeMario Douglas,REC YDS,40.0,40.0,10,33.5,46.5,HIGH,0.89
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Hunter Henry,REC YDS,36.7,36.5,10,31.0,42.5,HIGH,0.74
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Mack Hollins,REC YDS,32.8,32.5,10,27.5,38.0,HIGH,0.85
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Eli Raridon,REC YDS,26.1,26.5,3,21.5,31.0,MED,0.24
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Efton Chism III,REC YDS,23.5,23.5,6,19.0,28.0,HIGH,0.53
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Rhamondre Stevenson,REC YDS,23.6,23.5,6,19.5,28.0,HIGH,0.36
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Josh Jacobs,REC YDS,21.4,21.5,6,17.5,25.5,HIGH,0.87
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Savion Williams,REC YDS,18.5,18.5,6,15.0,22.0,HIGH,0.58
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Kyle Williams,REC YDS,16.0,15.5,6,12.5,19.5,HIGH,0.87
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Matthew Golden,RECEPTIONS,5.2,5.5,5,4.5,6.0,HIGH,0.06
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Tucker Kraft,RECEPTIONS,4.5,4.5,5,4.0,5.0,HIGH,0.07
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Christian Watson,RECEPTIONS,4.5,4.5,5,4.0,5.0,HIGH,0.04
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Hunter Henry,RECEPTIONS,3.6,3.5,5,3.0,4.0,HIGH,0.03
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Rhamondre Stevenson,RECEPTIONS,3.5,3.5,5,3.0,4.0,HIGH,0.04
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,DeMario Douglas,RECEPTIONS,3.5,3.5,5,3.0,4.0,HIGH,0.03
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Josh Jacobs,RECEPTIONS,3.4,3.5,5,2.5,4.0,HIGH,0.06
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Mack Hollins,RECEPTIONS,2.8,2.5,5,2.0,3.5,HIGH,0.05
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Eli Raridon,RECEPTIONS,2.5,2.5,3,2.0,3.0,MED,0.05
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Efton Chism III,RECEPTIONS,2.4,2.5,5,2.0,3.0,HIGH,0.03
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Savion Williams,RECEPTIONS,1.9,1.5,5,1.5,2.5,HIGH,0.09
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Kyle Williams,RECEPTIONS,1.2,1.5,5,0.5,1.5,HIGH,0.01
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Rhamondre Stevenson,RUSH YDS,55.8,56.5,10,49.0,62.5,HIGH,0.9
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Josh Jacobs,RUSH YDS,47.7,47.5,10,41.5,54.0,HIGH,0.49
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Drake Maye,RUSH YDS,25.5,25.5,10,21.5,29.5,HIGH,0.76
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Corey Kiner,RUSH YDS,22.0,22.0,6,18.5,25.5,HIGH,0.58
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,MarShawn Lloyd,RUSH YDS,7.5,7.5,3,5.5,9.5,MED,0.41
+NFL,Green Bay Packers @ New England Patriots,2026-11-08T21:25:00Z,Jordan Love,RUSH YDS,3.2,3.5,5,1.5,5.0,HIGH,0.14
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Brock Purdy,PASS TDS,2.1,2.5,6,1.5,2.5,HIGH,0.02
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Kirk Cousins,PASS TDS,1.5,1.5,6,1.0,2.0,HIGH,0.04
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Kirk Cousins,PASS YDS,247.8,248.0,12,232.5,263.0,HIGH,1.32
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Brock Purdy,PASS YDS,241.5,242.0,12,226.5,256.5,HIGH,2.12
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Brock Bowers,REC YDS,76.3,76.5,10,65.5,87.0,HIGH,1.28
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,George Kittle,REC YDS,70.0,69.5,10,60.0,80.0,HIGH,1.29
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Christian McCaffrey,REC YDS,41.6,40.5,10,35.0,48.0,HIGH,1.33
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Ashton Jeanty,REC YDS,36.6,35.5,10,30.5,42.5,HIGH,0.93
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Tre Tucker,REC YDS,35.5,35.0,10,29.5,41.5,HIGH,0.66
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Demarcus Robinson,REC YDS,34.8,34.5,10,29.0,40.5,HIGH,0.66
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Michael Mayer,REC YDS,29.8,29.5,6,24.5,35.0,HIGH,0.8
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Jordan Watkins,REC YDS,26.4,26.5,6,22.0,31.0,HIGH,0.77
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Jalen Nailor,REC YDS,20.5,20.5,6,16.5,24.5,HIGH,0.57
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Brandin Cooks,REC YDS,14.8,15.0,6,11.5,18.0,HIGH,0.74
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Jack Bech,REC YDS,10.5,10.5,6,8.0,13.5,HIGH,0.79
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Kyle Juszczyk,REC YDS,10.5,10.5,6,8.0,13.0,HIGH,0.39
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Brock Bowers,RECEPTIONS,6.6,6.5,5,6.0,7.5,HIGH,0.04
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,George Kittle,RECEPTIONS,5.9,5.5,5,5.0,6.5,HIGH,0.15
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Christian McCaffrey,RECEPTIONS,5.2,5.5,5,4.5,6.0,HIGH,0.06
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Ashton Jeanty,RECEPTIONS,4.3,4.5,5,3.5,5.0,HIGH,0.01
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Michael Mayer,RECEPTIONS,3.3,3.5,5,2.5,4.0,HIGH,0.06
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Tre Tucker,RECEPTIONS,3.1,3.5,5,2.5,3.5,HIGH,0.07
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Demarcus Robinson,RECEPTIONS,2.6,2.5,5,2.0,3.0,HIGH,0.04
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Jalen Nailor,RECEPTIONS,2.0,2.5,5,1.5,2.5,HIGH,0.08
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Jordan Watkins,RECEPTIONS,1.9,1.5,5,1.5,2.5,HIGH,0.07
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Jack Bech,RECEPTIONS,1.4,1.5,5,1.0,2.0,HIGH,0.04
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Kyle Juszczyk,RECEPTIONS,1.3,1.5,5,1.0,2.0,HIGH,0.05
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Brandin Cooks,RECEPTIONS,1.3,1.5,5,1.0,2.0,HIGH,0.04
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Christian McCaffrey,RUSH YDS,62.4,62.5,10,55.0,70.0,HIGH,1.65
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Kaelon Black,RUSH YDS,41.5,41.5,10,36.0,47.0,HIGH,0.54
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Mike Washington Jr.,RUSH YDS,33.5,33.0,10,29.0,38.0,HIGH,0.81
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Ashton Jeanty,RUSH YDS,27.4,27.5,10,23.5,31.5,HIGH,0.76
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Brock Purdy,RUSH YDS,15.5,15.5,5,12.5,18.5,HIGH,0.47
+NFL,Las Vegas Raiders @ San Francisco 49ers,2026-11-08T21:25:00Z,Kirk Cousins,RUSH YDS,1.3,1.5,3,0.0,2.5,MED,0.03
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Caleb Williams,PASS TDS,1.7,1.5,6,1.0,2.0,HIGH,0.03
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Baker Mayfield,PASS TDS,1.2,1.5,6,1.0,1.5,HIGH,0.03
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Caleb Williams,PASS YDS,246.4,246.0,12,231.0,261.5,HIGH,1.92
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Baker Mayfield,PASS YDS,210.0,210.5,12,196.5,223.5,HIGH,1.45
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Luther Burden III,REC YDS,65.3,65.5,10,56.0,74.5,HIGH,1.49
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Colston Loveland,REC YDS,54.3,53.0,10,46.0,62.5,HIGH,1.08
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Emeka Egbuka,REC YDS,50.5,50.5,10,43.0,58.0,HIGH,1.41
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Rome Odunze,REC YDS,49.8,49.0,10,42.5,57.5,HIGH,0.7
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Chris Godwin,REC YDS,32.8,32.5,10,27.5,38.0,HIGH,0.93
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Cade Otton,REC YDS,29.5,29.5,5,24.5,34.5,HIGH,0.98
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Ted Hurst III,REC YDS,22.4,22.5,6,18.0,26.5,HIGH,0.89
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,D'Andre Swift,REC YDS,21.0,21.0,6,17.0,25.0,HIGH,0.4
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Kalif Raymond,REC YDS,16.0,16.0,6,12.5,19.5,HIGH,0.59
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Tez Johnson,REC YDS,15.5,15.5,5,12.0,19.0,HIGH,0.63
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Bucky Irving,REC YDS,14.4,14.0,6,11.0,17.5,HIGH,0.78
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Kenny Gainwell,REC YDS,9.6,9.5,6,7.0,12.5,HIGH,0.5
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Roschon Johnson,REC YDS,3.4,3.5,4,1.5,5.5,MED,0.1
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Colston Loveland,RECEPTIONS,5.3,5.5,5,4.5,6.0,HIGH,0.08
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Luther Burden III,RECEPTIONS,4.9,4.5,5,4.0,5.5,HIGH,0.09
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Emeka Egbuka,RECEPTIONS,3.7,3.5,5,3.0,4.5,HIGH,0.12
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Chris Godwin,RECEPTIONS,3.6,3.5,5,3.0,4.0,HIGH,0.03
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Rome Odunze,RECEPTIONS,3.1,3.5,5,2.5,3.5,HIGH,0.05
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Cade Otton,RECEPTIONS,3.1,3.5,5,2.5,3.5,HIGH,0.02
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,D'Andre Swift,RECEPTIONS,2.8,2.5,5,2.0,3.5,HIGH,0.05
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Bucky Irving,RECEPTIONS,2.5,2.5,5,2.0,3.0,HIGH,0.04
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Kalif Raymond,RECEPTIONS,1.9,1.5,5,1.5,2.5,HIGH,0.03
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Kenny Gainwell,RECEPTIONS,1.8,1.5,5,1.5,2.5,HIGH,0.02
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Ted Hurst III,RECEPTIONS,1.5,1.5,5,1.0,2.0,HIGH,0.04
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Tez Johnson,RECEPTIONS,1.3,1.5,4,1.0,2.0,MED,0.03
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Roschon Johnson,RECEPTIONS,0.7,0.5,4,0.0,1.0,MED,0.01
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Bucky Irving,RUSH YDS,64.2,64.0,10,56.5,72.0,HIGH,1.11
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,D'Andre Swift,RUSH YDS,62.5,62.5,10,55.0,70.0,HIGH,0.7
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Kenny Gainwell,RUSH YDS,21.7,22.0,6,18.0,25.0,HIGH,0.68
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Caleb Williams,RUSH YDS,19.3,19.5,6,16.0,22.5,HIGH,0.48
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Roschon Johnson,RUSH YDS,16.4,16.5,6,13.5,19.5,HIGH,0.4
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Baker Mayfield,RUSH YDS,16.5,16.5,6,13.5,19.5,HIGH,0.46
+NFL,Tampa Bay Buccaneers @ Chicago Bears,2026-11-09T01:20:00Z,Luther Burden III,RUSH YDS,1.8,1.5,3,0.5,3.0,MED,0.0
