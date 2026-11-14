@@ -1,0 +1,68 @@
+sport,game,start,player,stat,fair,book_line,books,over_if_pp_at_or_below,under_if_pp_at_or_above,agreement,spread
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,George MacIntyre,PASS TDS,0.8,0.5,3,0.5,1.0,MED,0.01
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,Marcel Reed,PASS TDS,0.9,0.5,3,0.5,1.5,MED,0.01
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,George MacIntyre,PASS YDS,167.5,167.5,3,156.5,178.5,MED,0.94
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,Marcel Reed,PASS YDS,180.5,180.5,3,169.0,192.0,MED,0.0
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,DeSean Bishop,REC YDS,8.5,8.5,3,6.0,11.0,MED,0.04
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,Isaiah Horton,REC YDS,38.7,38.5,3,32.5,45.0,MED,0.2
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,Braylon Staley,REC YDS,39.5,39.5,3,33.5,45.5,MED,0.0
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,Dasaahn Brame,REC YDS,17.5,17.5,3,14.0,21.0,MED,0.0
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,Aaron Gregory,REC YDS,24.5,24.5,3,20.0,29.0,MED,0.07
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,Mario Craver,REC YDS,34.5,34.5,3,29.0,40.0,MED,1.65
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,Mike Matthews,REC YDS,50.5,50.5,3,43.0,58.0,MED,0.0
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,DeSean Bishop,RUSH YDS,124.5,124.5,3,110.5,138.5,MED,0.21
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,Rueben Owens II,RUSH YDS,42.5,42.5,3,37.0,48.0,MED,0.0
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,Marcel Reed,RUSH YDS,20.5,20.5,3,17.0,24.0,MED,0.32
+NCAAF,Tennessee Volunteers @ Texas A&M Aggies,2026-11-14T20:00:00Z,KJ Edwards,RUSH YDS,33.5,33.5,3,29.0,38.0,MED,0.17
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,CJ Carr,PASS TDS,2.1,2.5,3,1.5,2.5,MED,0.01
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,Mason McKenzie,PASS TDS,0.5,0.5,3,0.0,1.0,MED,0.01
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,Mason McKenzie,PASS YDS,161.5,161.5,3,151.0,172.0,MED,0.0
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,CJ Carr,PASS YDS,238.5,238.5,3,223.5,253.5,MED,0.0
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,Jaden Greathouse,REC YDS,31.5,31.5,3,26.0,37.0,MED,0.0
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,Micah Gilbert,REC YDS,37.5,37.5,3,31.5,43.5,MED,0.0
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,Jordan Faison,REC YDS,57.5,57.5,3,49.0,66.0,MED,0.0
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,Nolan James Jr.,REC YDS,12.5,12.5,3,9.5,15.5,MED,0.0
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,Javarius Green,REC YDS,36.3,36.5,3,30.5,42.0,MED,0.19
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,Bo MacCormack III,RUSH YDS,28.5,28.5,3,24.5,32.5,MED,0.47
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,Mason McKenzie,RUSH YDS,37.5,37.5,3,32.5,42.5,MED,0.94
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,Jonaz Walton,RUSH YDS,68.5,68.5,3,60.5,76.5,MED,0.0
+NCAAF,Boston College Eagles @ Notre Dame Fighting Irish,2026-11-14T20:30:00Z,Nolan James Jr.,RUSH YDS,84.3,83.5,3,74.5,94.0,MED,0.43
+NCAAF,California Golden Bears @ Virginia Cavaliers,2026-11-14T20:30:00Z,Jaron-Keawe Sagapolutele,PASS TDS,1.1,1.5,3,0.5,1.5,MED,0.01
+NCAAF,California Golden Bears @ Virginia Cavaliers,2026-11-14T20:30:00Z,Beau Pribula,PASS TDS,1.3,1.5,3,1.0,2.0,MED,0.03
+NCAAF,California Golden Bears @ Virginia Cavaliers,2026-11-14T20:30:00Z,Jaron-Keawe Sagapolutele,PASS YDS,235.5,235.5,3,221.0,250.0,MED,0.0
+NCAAF,California Golden Bears @ Virginia Cavaliers,2026-11-14T20:30:00Z,Beau Pribula,PASS YDS,175.5,175.5,3,164.0,187.0,MED,2.36
+NCAAF,California Golden Bears @ Virginia Cavaliers,2026-11-14T20:30:00Z,Kameron Courtney,REC YDS,28.5,28.5,3,23.5,33.5,MED,0.0
+NCAAF,California Golden Bears @ Virginia Cavaliers,2026-11-14T20:30:00Z,Chase Hendricks,REC YDS,57.5,57.5,3,49.0,66.0,MED,1.41
+NCAAF,California Golden Bears @ Virginia Cavaliers,2026-11-14T20:30:00Z,Da'Shawn Martin,REC YDS,37.5,37.5,3,31.5,43.5,MED,1.13
+NCAAF,California Golden Bears @ Virginia Cavaliers,2026-11-14T20:30:00Z,Mason Mini,REC YDS,24.5,24.5,3,20.0,29.0,MED,0.32
+NCAAF,California Golden Bears @ Virginia Cavaliers,2026-11-14T20:30:00Z,Ian Strong,REC YDS,39.5,39.5,3,33.5,45.5,MED,0.66
+NCAAF,California Golden Bears @ Virginia Cavaliers,2026-11-14T20:30:00Z,Jekail Middlebrook,RUSH YDS,73.8,74.5,3,65.0,82.5,MED,1.28
+NCAAF,California Golden Bears @ Virginia Cavaliers,2026-11-14T20:30:00Z,Beau Pribula,RUSH YDS,37.5,37.5,3,32.5,42.5,MED,0.07
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Gunner Stockton,PASS TDS,1.8,1.5,3,1.5,2.5,MED,0.01
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Austin Simmons,PASS TDS,0.8,0.5,3,0.5,1.0,MED,0.01
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Austin Simmons,PASS YDS,199.5,199.5,3,187.0,212.0,MED,0.0
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Gunner Stockton,PASS YDS,221.5,221.5,3,207.5,235.5,MED,0.0
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Craig Dandridge,REC YDS,26.5,26.5,3,22.0,31.0,MED,1.81
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Donovan Olugbode,REC YDS,50.5,50.5,3,43.0,58.0,MED,0.0
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Talyn Taylor,REC YDS,41.5,41.5,3,35.0,48.0,MED,0.0
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Jamal Roberts,REC YDS,7.7,7.5,3,5.5,10.0,MED,0.09
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Cayden Lee,REC YDS,60.5,60.5,3,51.5,69.5,MED,1.06
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,London Humphreys,REC YDS,17.4,17.5,3,14.0,21.0,MED,0.11
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Lawson Luckie,REC YDS,21.5,21.5,3,17.5,25.5,MED,0.0
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Jamal Roberts,RUSH YDS,62.7,62.5,3,55.0,70.5,MED,0.25
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Nate Frazier,RUSH YDS,58.5,58.5,3,51.5,65.5,MED,0.0
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Gunner Stockton,RUSH YDS,24.5,24.5,3,21.0,28.0,MED,0.0
+NCAAF,Missouri Tigers @ Georgia Bulldogs,2026-11-14T20:30:00Z,Dwight Phillips Jr.,RUSH YDS,41.5,41.5,3,36.0,47.0,MED,0.0
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,Jayden Maiava,PASS TDS,1.2,1.5,3,0.5,1.5,MED,0.01
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,Jayden Maiava,PASS YDS,234.5,234.5,4,220.0,249.0,MED,0.87
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,Tyler Morris,REC YDS,11.5,11.5,3,8.5,14.5,MED,0.0
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,Trent Mosley,REC YDS,60.5,60.5,4,51.5,69.5,MED,0.43
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,Charlie Becker,REC YDS,93.5,93.5,4,80.5,106.5,MED,1.46
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,Nick Marsh,REC YDS,64.5,64.5,4,55.0,74.0,MED,1.3
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,Tanook Hines,REC YDS,36.4,36.5,4,30.5,42.5,MED,0.61
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,Mark Bowman,REC YDS,31.7,31.5,4,26.5,37.0,MED,2.11
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,Shazz Preston,REC YDS,19.5,19.5,3,15.5,23.5,MED,0.16
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,King Miller,REC YDS,6.6,6.5,3,4.5,9.0,MED,0.07
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,King Miller,RUSH YDS,48.5,48.5,4,42.5,54.5,MED,1.41
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,Lee Beebe Jr.,RUSH YDS,93.5,93.5,4,83.0,104.0,MED,2.91
+NCAAF,USC Trojans @ Indiana Hoosiers,2026-11-14T20:30:00Z,Waymond Jordan,RUSH YDS,28.5,28.5,3,24.5,32.5,MED,0.06
